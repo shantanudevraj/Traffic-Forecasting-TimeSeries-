@@ -1,4 +1,4 @@
 # Traffic-Forecasting-TimeSeries-
-In this project i have predicted the nummber of people travelling through JetRail(provide high speed travel).\n
+In this project i have predicted the nummber of people travelling through JetRail(provide high speed travel).
 Data has been taken from Analytics Vidhya.
-Models used : Naive Bayes, Arima, Srimax
+#Models used : Naive Bayes, Arima, Srimax
